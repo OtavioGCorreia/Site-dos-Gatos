@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adoção responsalvel!</title>
+    <link rel="stylesheet" href="gatinhos.css">
+</head>
+<body>
+   
+    <header>
+        <h1>Adote um gatinho de guarulhos hoje!</h1>
+    </header>
+    <main id="gallery">
+        <img src="gato" alt="">
+        <img src="gato2" alt="">
+        <img src="gato3" alt="">
+        #aqui irao as fotos dos gatos
+    </main>
+    <footer>
+        <p>&copy; ONG MIAU</p>
+    </footer>
+</body>
+</html>
