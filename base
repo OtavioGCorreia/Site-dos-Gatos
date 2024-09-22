@@ -1,24 +1,33 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adoção responsalvel!</title>
-    <link rel="stylesheet" href="gatinhos.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ONG MIAU!</title>
+  <link rel="stylesheet" href="gatinhos.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+  </style>
 </head>
+
 <body>
-   
-    <header>
-        <h1>Adote um gatinho de guarulhos hoje!</h1>
-    </header>
-    <main id="gallery">
-        <img src="gato" alt="">
-        <img src="gato2" alt="">
-        <img src="gato3" alt="">
-        #aqui irao as fotos dos gatos
-    </main>
-    <footer>
-        <p>&copy; ONG MIAU</p>
-    </footer>
+
+  <!-- Barra de Navegação -->
+  <nav>
+    <ul>
+      <li> <a href="gatinhos.html">Gatinhos para Adoção</a></li>
+      <li><a href="requisitos.html">Requisitos para Adoção</a></li>
+      <li><a href="contato.html">Contato</a></li>
+    </ul>
+  </nav>
+
+  <!-- Cabeçalho -->
+  <header>
+    <h1>Bem-vindo à ONG Miau!</h1>
+    <p>Aqui você pode adotar um novo amigo felino!</p>
+  </header>
+
 </body>
+
 </html>
